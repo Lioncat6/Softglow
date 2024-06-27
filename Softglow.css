@@ -1,0 +1,14 @@
+/**
+ * @name Softglow
+ * @author Lioncat6
+ * @version 1.6.9
+ * @description Fork of softx but just the glowy bits :3
+ * @source https://github.com/Lioncat6/Softglow
+ * @invite qeBTyA8uqX
+*/
+
+@import url("https://discordstyles.github.io/SoftX/RadialGlow.css");
+
+body {
+    text-shadow: 0 0 5px currentcolor !important
+}
